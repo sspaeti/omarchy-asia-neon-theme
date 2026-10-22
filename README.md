@@ -16,7 +16,7 @@ Or `SUPER + ALT + SPACE` → Install → Style → Theme → paste the URL.
 
 ## Backgrounds
 
-![](backgrounds/asia-neon-marina-bay.jpg)
+![](backgrounds/asia-neon-marina-bay.webp)
 
 ## Obsidian
 
